@@ -2,7 +2,7 @@
 public class MyGitTest {
 
 	public static void main(String[] args) {
-		System.out.println("This is my GIT test from master and branch AAAA!");
+		System.out.println("Robert has made improvments");
 		//D:\CS-120\MyGitTest
 	}
 }
